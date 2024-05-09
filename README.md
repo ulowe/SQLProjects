@@ -38,6 +38,8 @@
   <h2>Results</h2>
   <p>The results of the analysis are presented in the form of SQL query outputs, which provide insights into sales performance across different dimensions. Visualizations and additional analysis can be performed based on the generated results.</p>
 
+  
+
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
