@@ -6,7 +6,7 @@
 </head>
 <body>
   <h1>Sales Performance Analysis</h1>
-
+  
   <h2>Overview</h2>
   <p>The Sales Performance Analysis is aimed at understanding and evaluating the performance of sales operations across various dimensions such as products, categories, stores, and time periods. This analysis provides insights into revenue generation, top-selling products, geographical revenue distribution, sales trends over time, and brand performance.</p>
   
@@ -16,9 +16,8 @@
     <li>Identify top-selling products within each category.</li>
     <li>Explore geographical revenue distribution by state.</li>
     <li>Track the number of orders per month to identify sales trends over time.</li>
-    <li><a href="https://public.tableau.com/app/profile/ulowe/viz/SalesPerformanceAnalysis_17152301943940/Dashboard12">Data Viz</li>
   </ul>
-
+  <h2><a href="https://www.kaggle.com/datasets/bhavikjikadara/global-electronics-retailers">Data Source</h2>
   <h2>Data</h2>
   <p>The analysis utilizes data from the following tables:</p>
   <ul>
@@ -37,9 +36,7 @@
 
   <h2>Results</h2>
   <p>The results of the analysis are presented in the form of SQL query outputs, which provide insights into sales performance across different dimensions. Visualizations and additional analysis can be performed based on the generated results.</p>
-
-  
-
+  <li><a href="https://public.tableau.com/app/profile/ulowe/viz/SalesPerformanceAnalysis_17152301943940/Dashboard12">Data Viz</li>
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
 </body>
